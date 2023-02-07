@@ -1,0 +1,6 @@
+{
+  "id": "clduo1yk30002l708e3z1fm8d",
+  "name": "gatsby-site",
+  "distDir": "public",
+  "buildCommand": "yarn run build"
+}
